@@ -1,0 +1,15 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# PyInstaller files
+/build/
+/dist/
+*.spec
+
+# Python virtual environments (if used)
+.venv/
+venv/
+
+# Local settings file
+hoa_scraper_settings.ini
